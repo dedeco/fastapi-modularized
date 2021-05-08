@@ -9,6 +9,7 @@ fastapi = "*"
 pydantic = "*"
 pytest = "*"
 python-dotenv = "*"
+requests = "*"
 
 [dev-packages]
 
